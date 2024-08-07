@@ -27,7 +27,7 @@ SECRET_KEY = 'htvy=a2t8q%j3_p1*$74$jl=@_!hvz9f090iqtjx+ofryae-5^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['aalok.onrender.com']
 
 
 # Application definition
